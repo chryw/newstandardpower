@@ -1,149 +1,71 @@
-Our main products currently include: substations, transformer online monitoring, circuit breaker and transformer intelligent online monitoring system, intelligent distribution automation, and integrated energy management systems. China heaven section is dedicated to the power Grid Company and largest customer, to establish a large customer, region, industry market for wire management system as a target.
-Beijing New Standard Power Technical Co., Ltd. was established in 2007, the headquarters is located in Yizhuang Economic and Technological Industrial Park in Beijing.
-New Standard is specialized in electrical automation product development, production and system integration of high-tech enterprises, covering power system, transmission, distribution, use and so on all levels. Shenrui stake in substation automation, SCADA, distribution automation, station automation, railway electrical automation, large-caliber ultrasonic flowmeter, electrical equipment on-line condition monitoring and other fields with leading technology independent intellectual property products. Our products are widely used throughout the more than twenty power dispatch center provinces, municipalities and autonomous regions, centralized control center with dispatch center, hydropower, thermal power plants, substations and large industrial enterprises in power system, and exports in Asia, Europe and many countries. Shenrui share with excellent product quality and excellent service has won the majority of customers trust and support.
-Shenrui shares are high-tech enterprises in Shanghai, Shanghai software enterprises, ISO9001 international quality system certification of enterprises, and access to the Shanghai Science and Technology Little Giant (training) companies, Shanghai Banking little giant enterprises, software enterprises in Shanghai Star, Shanghai Patent foster enterprise and a series of qualifications and honors.
-Shenrui shares existing staff of 240, with an average age of 28 years, more than 20 percent of employees with postgraduate qualifications.
-By the end of 2008 Shenrui shares registered capital 46.5 million yuan, the cumulative three-year 2006-2008 more than 400 million yuan output value. Shenrui shares with outstanding performance in nearly three years of the finalists of the "2009 China Forbes potential companies list."
+公司名称：北京欣之格电力科技有限公司
+Company Name: New Standard Power Technical Co. Ltd
+地址：中国北京市亦庄经济开发区 经海路2号 29
+Addresses - NO.2 JINGHAI ROAD YIZHUANG ECONOMIC DIST RM 1-501 BD 6 COURTYARD 29, BEIJING, CHINA 101111
+Tel: +86 (10) 6353-7602
+
+ABOUT US
+Who We Are
+
+Beijing New Standard Power Technical Co., Ltd. (New Standard) was established in 2007, the headquarters is located in Yizhuang Economy and Hi-Tech Industrial Park in Beijing.  We have sales office is located in the Shanghai and state of the art R&D facilities located in China’s Power Valley Baoding, Heibei. In 2008, New Standard established a new international sales branch office Bellevue, Washington, USA.
+
+Our company is specialized in monitoring and diagnostics systems for large-scaled power plants (PP). Some of our products include electrical equipment online monitoring systems, transformer diagnostics, power substation transformers, overcurrent protection systems, transformer lubricants, system integration for enterprise applications. New Standard serves the electrical power industry with innovative products and services for testing, diagnostics and monitoring of assets worldwide. We help to make the generation, transmission and distribution of electricity safe and reliable.
+
+Why Choose Us
+As one of the top companies with upstanding reputation in China’s energy industry, New Standard manufactures, designs, install and provide services for online real-time monitoring of large scale supercritical systems in any size and configuration. We also provide international services in consultation and technical training. 
+Our products and solutions are backed by an experienced engineer team that offers a blend of remote and on-site emergency response. The remote support technicians can diagnose the situation prior to deploying an on-site engineer. Upon crisis situations, the field engineers response and arrive on site within 24 business hours to provide immediate troubleshooting services. 
 
 
-第一页  封面包括衬底图案 公司标志  公司名称 （中英）
-————————————————————————————————
-第二页 公司产品厂家授权信扫描件 （加镜框）
-————————————————————————
- 第三页：上半页 公司介绍：
-北京欣之格电力科技有限公司是专业从事引进国际电力设备的高新技术企业, 具有变电站状态监测系统成套解决方案和成套工程服务力量的专业化公司，同时也是一些国际知名电力产品引入中国，成为其在中国的唯一销售及服务代理商。总公司位于北京，在上海设有办事处及在中国电谷-河北保定高科区投资兴建了研发中心。
-
-基于在电力系统的良好信誉及与各国际知名品牌企业良好的合作，已承揽了许多国内大型超临界电厂变压器在线监测系统的供货、设计及安装调试工作。主要业绩如：国电北仑港2*1000MW、国投北疆电厂2*1000MW机组，国华电力绥中电厂2*1000MW电厂，华能九台电厂、井冈山电厂、平凉电厂及中国第一条1000K输变电线路起始站等众多重点电力项目。对于成套工程，公司设有专门的项目经理，全程提供项目的咨询、产品的选型、技术的培训等服务。
-
-Beijing New Standard Power system Company (NSP) is the authorized sales representative and/or distributor in the People’s Republic of China for Numerous U.S.A and European companies serving the Electric Utility and Industrial Market with sales office in Shanghai and Research and Development Center in China Power Valley – Heibei Baoding City, the center provided the Power Substation DGA system and professional site service.
-
-With a good reputation in electric power industry, Beijing New Standard Power Technical Co., Ltd. has been cooperating with many famous international enterprises. The company has contracted to supply, design, install and debug the online monitoring systems of transformers for many large scale supercritical P/Ps, such as the Beilungang P/P of State Power Co. and Beijiang P/P of SDIC., the Suizhong P/P of Guohua Electric Power Co., and the 1st 1000KV transmission line Substation of the State Grid Co. We also involves in the building of the national key power projets of Jiutai P/P, Jianggangshan P/P and Pingliang P/P of China Huaneng Group. The company has project managers to be responsible for the whole set projects. They will provide global services, such as consultation, choices of products and technical training, etc.
 
 
-——————————————————————————
-第三页 下半页 开始产品简介：（增加Serveron产品图片）见图库 1 
+New Standard is the strategic partner of Shell Company in China. We are responsible for the sales of Shell's power system insulation and lubricants in China.
+We are also the exclusive distributor of LumaSense (formerly Luxtron), GridSense ,  Enpay (Turkey), Omicron https://www.omicron.at/en/
+Secretary, Serveron
 
-公司主要产品：Main Sales Products 
+New Standard is the exclusive distributor in the People’s Republic of China (PRC) for numerous oversea markets serving the electrical infrastructure and industrial applications.
+Examples of some of our clients are:
 
-大型变压器在线监测系统 – 美国斯维隆（Serveron）变压器在线监测产品中国特约代表。 
-high voltage Transformer online monitor system – Authorized Sales for Serveron U.S.A Transformer Online monitor system in China 
-
-经过数年来公司科技技术人员的潜心开发，同时在2007年积极引进销售国际先进产品-美国Serveron 公司产品，终于实现了大型变电站及超大型压变压器各部位在线监测装置的软件分析平台及事故预警的统一，使监测部位及监测产品等级真正实现了模块化，将不同国家及厂家的监测装置家族化，从而弥补了不同监测产品对大型变压器的衡量标准、软件、定值等不统一的技术顽症，满足了电力用户的各种需求。
-
-Based on our scientific research engineer team developing and Start to work with and Sales Serveron U.S.A online monitor system, realized the unify Specialist Analyze software and fault trip alarm, Transformer system online monitor come true a modularization model system, we let the transformer partial components online monitor and non-uniform monitoring approach gone at last. 
-
-产品型号：（加图 有了）
-Model No: TM8 –九种故障气体在线监测装置，与国标推荐的7+2种气体种类完全符合，可同时或单独监测以下气体，测量范围大。 氢气、氧气、甲烷、一氧化碳、二氧化碳、乙烯、乙烷、乙炔、氮气。且该装置探头抗真空，测量不受负荷影响，其后台支持中文，配有能够给出具体意见的专家系统。可以预测变压器所有的故障。
-
-产品型号：（加图 有了）
-Model No: TM3 - 三种气体，可同时或单独监测以下关键气体，测量范围大。甲烷、乙炔乙烯.  且该装置探头抗真空，测量不受负荷影响，其后台支持中文，配有能够给出具体意见的专家系统。可以预测变压器80%以上的故障。
-
-产品型号：（加图 有了）
-Model No: TBM – 高压套管在线检测  何克补充：文字加图
-
-产品型号：（加图 有了）
-Model No: TMM 变压器油中微水在线监测仪
-
-特点
- 连续测量变压器油中微量水分
- 优良的耐压和耐温性
-
-常规参数
- 工作压力范围     0-40bar
- 防水性能         IP65(NEMA4)
- 传感器保护       不锈钢栅格，带不锈钢网的不锈钢栅格，
-烧结过滤器
-加图片 见图库2 
-第四页 （上）
-超高压断路器在线监测系统 — 美国Incon公司高压断路器在线检测产品中国区总代表。
-Extra-High Voltage Circuit Breaker online monitor system – Exclusive Authorized Sales for Incon U.S.A Power Reliability System in China 
-
-随着电力行业的大型超高压项目的迅速增长，超高压电力设备的稳定安全运行及减少不必要的停机检修，从而达到高经济价值的产出。安全有效的在线监测产品的需求日益增加，美国Incon公司产品及技术的引入，填补了目前国内断路器在线监测产品的空白，满足了中国电力市场的需要。
-
-Based on the China extra-high voltage Power market develop rapidly, keeping the system continuous work time or cut down the system off-line maintenance times, become to the biggest issue of the substations, the Breaker online monitor system can let these requirements come true.   
-
-图片加简单解释加图（有了）
-产品型号：OPTImizer+在线的为断路器预防性检修提供可靠、经济的数据信息。
-测量：OPTImizer+监测断路器如下三个断路器关键特性参数的发展趋势：
-
-OPTImizer+®:
-Circuit Breaker Wear and Condition Monitor The OPTImizer+ offers reliable, cost effective circuit breaker information for predictive maintenance, in service and on-line.
-
-变电站状态在线检修系统 
-Substation DGA system
-通过统一上述产品的分析软件、工控界面、全方位的监测平台，使变电站整体进入在线监测及在线状态检修成为现实，真正意义的实现了电站无人值守的新纪元。
-
-Using the uniform analyzing software to monitoring Transformers and Breakers for complete Substation, it lets the unattendant operation substation come true.
-
-第四页 下半 增加图片 见图库 3 
-	                                                      
-电力测试装置 - 奥地利Omicron(欧美龙)公司在华一级销售代表。
-Power Test equipment –Authorized Sales for Austria Omicron Power Testing Equipment for China market.
-
-Omicron 电子是一家致力于为一次二次测试提供。。。。。（来自说明书）
-英文：来自说明书。
-  
-产品包括：变压器综合测试仪、继电保护测试仪、变压器绕组测试仪、CT检测仪等。
-CPC100本系统为世界首创，具有变压器测试、CT测试、PT测试、电阻测量等多项自动测试功能。
-CPC100多功能一次测试系统
-设计：CPC 100主要为电流互感器及电压互感器的绝缘及特性试验要求所设计，并兼顾了变压器等高压设备的部分特性试验要求及考虑了接地电阻的测量。CPC 100的测试均为微机自动测试
-图片： 
-
-OMICRON CT综合测试仪
-CT分析仪CT Analyzer 是一款世界首创的便携式CT测试分析装置，主要应用于电流互感器的励磁曲线、变比、极性、线圈电阻、负载阻抗、剩磁、二次时间常数等稳态及暂态特性测试。
-OMICRON继电保护测试仪CMC 256
-OMICRON是致力於制造和销售电力系统检测设备的顶级专业厂商。其产品靠不断的技术创新，功能强大的测试软件和卓越精巧的硬件而一直位居全球领先地位。
-OMICRON测试对象包括：继电保护装置、电量表计、测量变送器
-CMC 256 能够完成国内外各种类型继电保护装置的自动测试
-CMC 256 能够完成国内外各种类型电量表计及测量变送器的自动测试
-CMC 256 应用于继电保护装置、电量表计、测量变送器的开发、型式试验、装置校验的自动测试
-CMC 256 也可应用于电力系统实时分析等
-可替代国内外各种继电保护测试装置、电量表现场校验仪、电量变送器校验仪（包含国内外各种变送器的所有特性校验）、便携式故障录波仪
-图片（有了）
-OMICRON 变压器绕组变形测试仪
-
-FRAnalyzer 的独特功能                  
-• 高可靠性的结果，因为所应用的测量方法及创新的连接技术
-• 极小的尺寸，因为采用了领先的边缘技术
-• 使用简单，因为采用了创造性的软件
-• 便携，因为是带电池操作
+        China Three Gorges Corporation (Three Gorges Dam PP) http://www.ctg.com.cn/en/
+        China Huadian Group (Zhengchangzhuang PP, Project for 2008 Beijing Olympics) http://eng.chd.com.cn/
+        Beijing Energy Investment Holding Company Ltd. (Taiyanggong PP, Project for 2008 Beijing Olympics) http://www.powerbeijing.com/
+        MWB Shanghai Company Limited (Jindongnan Substation - The First 1000kV Substation in the world) http://www.trench.at/en/Company/Trench-China-Shanghai/MWB-Shanghai-Co.-Ltd
+        Gezhouba Group (Jingmen Substation) http://www.cggc.cc/
+        China Guodian Corporation (Beilungang PP) http://www.cgdc.com.cn/home.jhtml
+        SDIC (Tianjin Beijiang PP)
+        Guohua Electric Power Company (Suizhong PP, phase #1-4/1000 MVA transformers, Taishan PP, Huizhou PP, Ninghai PP)
+        State Grid Company (1-1000KV transmission line Substation)
+        Huaneng Power International (Jiutai PP, Jianggangshan PP, Pingliang PP) http://www.hpi.com.cn/
+        Golden Concord Holdings Ltd (Haimen PP)
+        Yunnan Diandong Energy Company (Yunnan Diandong PP)
+        Pingshuo Shanxi Coal Power Generation Company Ltd. (Shanxi Pingshuo PP)
+        Shandong Electric Power Group Corporation (Shangdong Heze PP)
+        Guangdong Datang International Chaozhou Power Generation Company Ltd. (Guangdong Chaozhou PP)
+        Shanghai Caojing Thermal Power (Caojing PP)
+        Sichuan Huadian Power Generation Co., Ltd. (Huadian Gongxian PP)
+        Huaneng Power International (Huaneng Fuzhou PP)
+        Jinggangshan Suichuanjiang Development Co Ltd. (Jinggangshan PP)
+        State Power Central Company (Yueyang PP)
+        China Power Investment Corporation (Kanshan PP, Daibieshan PP)
+        Jiangxi Network Company
+        
+Distributed products:
+    
+    GE - On-line DGA monitoring equipment http://www.ge.com/
+    Severon - On-line DGA monitoring equipment http://www.qualitrolcorp.com/
+    Morgan Schaffer - On-line DGA monitoring equipment https://www.morganschaffer.com/
+    Doble Engineering Company - Circuit testing equipment http://www.doble.com/
+    Omicron - Circuit testing equipment https://www.omicron.at/en/
+    Royal Dutch Shell - Power system insulation and lubricants http://www.shell.com/
+    LumaSense - LumaSmart/transformer temperature monitoring equipment http://www.lumasenseinc.com/
+    GridSense - transformer monitoring equipment http://www.gridsense.com/
+    Enpay - transformer components http://www.enpay.com/
+    
+    
 
 
-第五页 上半 见图库 4 
-电力润滑油（脂）及变压器绝缘油 – Shell （壳牌）电力润滑油、绝缘油中国销售代表。
-Electric Utility lubrication Oil and transformer insulation oil - Authorized Sales for Shell oil for China market.   
+Shenrui stake in substation automation, SCADA, distribution automation, station automation, railway electrical automation, large-caliber ultrasonic flowmeter, electrical equipment on-line condition monitoring and other fields with leading technology independent intellectual property products. Our products are widely used throughout the more than twenty power dispatch center provinces, municipalities and autonomous regions, centralized control center with dispatch center, hydropower, thermal power plants, substations and large industrial enterprises in power system, and exports in Asia, Europe and many countries. Shenrui share with excellent product quality and excellent service has won the majority of customers trust and support.
 
-小封边 （加图案）
-
-第五页 下半页 介绍服务 （加入暗图）   
-
-公司还配备了一支具有高学历及经验的售后服务队伍，为用户提供着高效的、及时的、贴近的技术服务， 每周7天每天24小时的技术支撑，接到通知后24小时即可到达现场的承诺。
-
-We have a high technology and experience team to handle the site service, 7day for week 24 for day supply the technical support, we can arrive at the site in 24 hours after received the requirement. 
-
-下本页 公司信息                                            
-
-Beijing New Standard Power Technical Co.,Ltd.
-北京欣之格电力科技有限公司
-
-电话 传真 电邮 网站  
-北京欣之格电力科技有限公司
-
-基于在电力系统的良好信誉及与各国际知名品牌企业良好的合作，已承揽了许多国内大型超临界电厂变压器在线监测系统的供货、设计及安装调试工作。主要业绩如：国电北仑港2*1000MW、国投北疆电厂2*1000MW机组，国华电力绥中电厂2*1000MW电厂，华能九台电厂、井冈山电厂、平凉电厂及中国第一条1000K输变电线路起始站等众多重点电力项目。对于成套工程，公司设有专门的项目经理，全程提供项目的咨询、产品的选型、技术的培训等服务。
-
-专业的开关维修中心：该中心是目前国内唯一一家能够对110kV及220kV户外敞开式断路器进行日常维护维修的中心，拥有国内先进的开关维修维护检测设备，并拥有一支专业的开关检测工程师队伍。
-
-专业的UPS安装及维修中心：该中心为专业的UPS厂家的指定代理维修商，拥有专业的现场安装工程师，并积极地活跃在包括电力、通讯、民用等领域，向客户提供优质迅捷的服务。
-
-专业的电力系统数字控制系统调试中心：该中心依托美国CHRISTIE公司的大屏幕产品，成功的向国内大型电厂提供大屏幕安装及调试服务。
+Beijing Xin grid Power Technology Co., Ltd. has advanced management level, the company always adhere to the people-oriented, marketing and technological progress as a business off the wings, in order to establish a comprehensive quality assurance system based on, to provide users with sophisticated products. Companies to promote the establishment of a learning organization, to provide relevant professional retraining opportunities to employees, provide a broad development space for employees' career development.
 
 
-北京欣之格电力科技有限公司具有先进的管理水平，公司始终坚持以人为本，以市场营销及科技进步作为企业腾飞的两翼，以建立完备的质量保证体系为基础，为用户提供精良的产品。公司提倡建立学习型组织，向员工提供相关专业的再培训机会，为员工的职业发展提供广阔的发展空间。
-
-
-电话：0086-10-63537602
-传真：0086-10-63537632
-地址：中国北京，丰台区右安门外大街2号 
-迦南大厦1809室 邮编：100069
-网页：www.newstandard.com.cn 
-
+Beijing New Standard Technical Co. certified for both ISO 9001 and ISO 14001????????????????????

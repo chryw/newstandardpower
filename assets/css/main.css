@@ -1,10 +1,16 @@
-html, button, input, select, textarea {
+html,
+button,
+input,
+select,
+textarea {
 	color: #222;
 }
+
 body {
 	font-size: 1em;
 	line-height: 1.4;
 }
+
 
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
@@ -13,15 +19,18 @@ body {
  */
 
 ::-moz-selection {
- background: #f2c2c9;
- color: #a4003a;
- text-shadow: none;
+	background: #f2c2c9;
+	color: #a4003a;
+	text-shadow: none;
 }
+
 ::selection {
 	background: #16a085;
 	color: #a4003a;
 	text-shadow: none;
 }
+
+
 /*
  * A better looking default horizontal rule
  */
@@ -45,6 +54,8 @@ hr {
 img {
 	vertical-align: middle;
 }
+
+
 /*
  * Allow only vertical resizing of textareas.
  */
@@ -52,13 +63,17 @@ img {
 textarea {
 	resize: vertical;
 }
+
+
 /* ==========================================================================
    General styles
    ========================================================================== */
 
-html, body {
+html,
+body {
 	height: 100%;
 }
+
 body {
 	font-weight: 300;
 	font-size: 16px;
@@ -66,37 +81,47 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-webkit-overflow-scrolling: touch;
 }
+
 .col-md-4 {
 	padding-bottom: 20px;
 }
+
 .row {
 	margin-right: 0px;
 	margin-left: -15px;
 }
+
 .modal-header {
 	background: #0099dd;
 }
+
 .modal-header h4 {
 	color: white;
 	font-weight: 700;
 	letter-spacing: 1px;
 }
+
 .modal-footer {
 	background: #2b2b2b;
 }
+
 .navbar-default {
 	border-color: transparent;
 	background-color: #dadada;
 }
+
 .navbar-inverse .navbar-brand {
 	font-weight: 500;
 	font-size: 20px;
 }
+
 .navbar-toggle {
 	border-color: transparent;
 	border: 0px solid transparent;
 }
-.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
 	background-color: #16a085;
 	color: white;
 }
@@ -104,36 +129,54 @@ body {
 .odd a img {
 	background: #f5f5f5;
 }
+
+
 /* Titles */
-h1, h2, h3, h4, h5, h6 {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	font-weight: 200;
 	color: #333;
 }
+
 h2 {
 	font-size: 36px;
 	color: #777;
 }
+
 h3 {
 	font-size: 26px;
 }
+
+
 /* Paragraph & Typographic */
+
 p {
 	line-height: 28px;
 	margin-bottom: 20px;
 }
+
 p.large {
 	font-size: 20px;
 	margin-bottom: 50px;
 }
+
 .centered {
 	text-align: center;
 }
+
 strong {
 	font-weight: 700;
 }
+
 em {
 	font-weight: 300;
 }
+
 pre {
 	background: #ebebeb;
 	border: none;
@@ -142,21 +185,26 @@ pre {
 	padding: 20px;
 	line-height: 28px;
 }
+
 small {
 	font-size: 12px;
 }
-blockquote, blockquote p {
+
+blockquote,
+blockquote p {
 	line-height: 28px;
 	color: #999;
 	font-weight: 300;
 	font-style: italic;
 }
+
 blockquote {
 	position: relative;
 	margin: 0 0 40px -30px;
 	padding-left: 30px;
 	border-left: 5px solid #3498db;
 }
+
 blockquote cite {
 	position: absolute;
 	bottom: -25px;
@@ -166,14 +214,21 @@ blockquote cite {
 	color: #333;
 	font-weight: 300;
 }
+
 blockquote cite:before {
 	content: "-- "
 }
+
+
 /* Images */
+
 .overflow-image {
 	margin-top: -65px;
 }
+
+
 /* Links */
+
 a {
 	color: #4abcc5;
 	word-wrap: break-word;
@@ -183,30 +238,38 @@ a {
 	-o-transition: color 0.1s ease-in, background 0.1s ease-in;
 	transition: color 0.1s ease-in, background 0.1s ease-in;
 }
-a:hover, a:focus {
+
+a:hover,
+a:focus {
 	color: #c0392b;
 	text-decoration: none;
 	outline: 0;
 }
-a:before, a:after {
+
+a:before,
+a:after {
 	-webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
 	-moz-transition: color 0.1s ease-in, background 0.1s ease-in;
 	-ms-transition: color 0.1s ease-in, background 0.1s ease-in;
 	-o-transition: color 0.1s ease-in, background 0.1s ease-in;
 	transition: color 0.1s ease-in, background 0.1s ease-in;
 }
-.logo-header img{
-	width:30px;
+
+.logo-header img {
+	width: 30px;
 }
-.logo-hero img{
-	width:200px;
+
+.logo-hero img {
+	width: 200px;
 }
+
+
 /* ==========================================================================
    Wrap Sections
    ========================================================================== */
 
 #headerwrap {
-	background-color:#424242;
+	background-color: #424242;
 	margin-top: -50px;
 	padding-top: 120px;
 	text-align: center;
@@ -224,6 +287,7 @@ a:before, a:after {
 	background-size: cover;
 	padding-bottom: 100px;
 }
+
 #headerwrap h1 {
 	color: #ffffff;
 	font-size: 50px;
@@ -231,6 +295,7 @@ a:before, a:after {
 	text-align: center;
 	letter-spacing: 3px;
 }
+
 #headerwrap p {
 	color: #fff;
 	font-size: 22px;
@@ -238,6 +303,7 @@ a:before, a:after {
 	text-align: center;
 	letter-spacing: 1px;
 }
+
 #headerwrap .icon {
 	color: #ffffff;
 	margin-top: 90px;
@@ -247,6 +313,7 @@ a:before, a:after {
 	font-weight: bold;
 	text-shadow: 0px 20px 7px #3da8ae;
 }
+
 #headerwrap .btn {
 	font-weight: 500;
 	font-size: 20px;
@@ -254,38 +321,55 @@ a:before, a:after {
 	color: #fff;
 	border: 0;
 }
-#headerwrap .btn:hover, #headerwrap .btn:focus {
+
+#headerwrap .btn:hover,
+#headerwrap .btn:focus {
 	outline: 0px;
 }
+
 #about {
 	background: #fff;
 	padding: 60px 0;
 }
+
 #about img {
 	margin-top: 65px;
 }
+
 #clients {
 	background: #f5f5f5;
 	padding: 60px 0;
 	text-align: center;
 }
+
+
 #clients .fa {
 	color: #0099dd;
 }
+
+#clients img {
+	height:100px;
+	width:200px;
+}
+
 #clients p {
 	text-align: center;
 }
+
 #partners {
 	background: #f5f5f5;
 	padding: 60px 0;
 }
+
 #partners H4 {
 	padding-top: 10px;
 }
+
 #partners p.large {
 	margin-top: 60px;
 	margin-bottom: 40px;
 }
+
 #partners .fa {
 	width: 30px;
 	height: 30px;
@@ -300,28 +384,35 @@ a:before, a:after {
 	-moz-transition: all .3s;
 	transition: all .3s;
 }
+
 #partners .fa:hover {
 	background-color: #0099dd;
 }
+
 #products {
 	background: #fff;
 	padding: 60px 0;
 }
+
 #products .btn-default {
 	border: 0;
 }
+
 #contact {
 	background: #fff;
 	padding: 60px 0;
 	text-align: center;
 }
+
 #contact .form {
 	padding: 30px 0;
 }
+
 #contact .fa {
 	color: #0099dd;
 	margin-bottom: 10px;
 }
+
 #contact .btn {
 	font-weight: 500;
 	font-size: 18px;
@@ -329,10 +420,13 @@ a:before, a:after {
 	color: #fff;
 	border: 0;
 }
-#contact .btn:hover, #contact .btn:focus {
+
+#contact .btn:hover,
+#contact .btn:focus {
 	background-color: #e9af03;
 	outline: 0px;
 }
+
 #greywrap {
 	background: #f5f5f5;
 	margin-top: 0px;
@@ -340,6 +434,7 @@ a:before, a:after {
 	border-bottom: 1px solid #eee;
 	text-align: center;
 }
+
 #greywrap .btn {
 	font-weight: 300;
 	font-size: 20px;
@@ -350,7 +445,9 @@ a:before, a:after {
 	border-bottom: 0;
 	letter-spacing: 1px;
 }
-#greywrap .btn:hover, #greywrap .btn:focus {
+
+#greywrap .btn:hover,
+#greywrap .btn:focus {
 	margin: 0 25px;
 	background-color: #fff;
 	border-color: #a5cdd5;
@@ -358,52 +455,68 @@ a:before, a:after {
 	outline: 0px;
 	color: #a5cdd5;
 }
+
 #greywrap h2 {
 	font-size: 30px;
 }
+
 #greywrap .callout {
 	margin-bottom: 20px;
 }
+
 #greywrap p {
 	font-size: 30px;
 }
+
 #greywrap .fa {
 	font-size: 18px;
 	margin-right: 4px;
 }
+
 #footerwrap {
 	background: #2b2b2b;
 	padding: 25px 0 15px 0;
 	border-bottom: 1px solid #ddd;
 	text-align: center;
 }
+
 #footerwrap span.copyright {
 	line-height: 40px;
 	color: #888;
 	font-weight: 400;
 }
+
 #footerwrap span.copyright a {
 	color: #888;
 	border-bottom: 1px dotted;
 }
+
 #footerwrap span.copyright a:hover {
 	color: #0099dd;
 	text-decoration: none;
 }
+
 #footerwrap h4 {
 	color: white;
 }
+
 ul.social-buttons {
 	margin: 0;
 }
+
 ul.social-buttons li a {
 	font-size: 24px;
 	outline: 0;
 	color: #999;
 }
-ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
+
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active {
 	color: #0099dd;
 }
+
+
 /* ==========================================================================
    Box Sections
    ========================================================================== */
@@ -411,9 +524,11 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 .white h1 {
 	color: #999;
 }
+
 .white p {
 	padding-top: 25px;
 }
+
 
 /* ==========================================================================
    Image Mask
@@ -424,11 +539,13 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	position: relative;
 	border: 1px solid #eee;
 }
+
 .grid figure img {
 	width: 100%;
 	display: block;
 	position: relative;
 }
+
 .grid figcaption {
 	position: absolute;
 	top: 0;
@@ -437,6 +554,7 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	color: #fff;
 	background-color: #0099dd;
 }
+
 .grid figcaption h5 {
 	margin: 0;
 	padding-top: 0px;
@@ -447,6 +565,7 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	text-align: left;
 	letter-spacing: 1px;
 }
+
 .grid figcaption a {
 	text-align: left;
 	padding: 5px 10px;
@@ -456,21 +575,28 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	color: #fff;
 	font-size: 13px;
 }
+
+
 /* Caption Style */
+
 .mask figure {
 	overflow: hidden;
 }
+
 .mask figure img {
 	-webkit-transition: -webkit-transform 0.4s;
 	-moz-transition: -moz-transform 0.4s;
 	transition: transform 0.4s;
 }
-.no-touch .mask figure:hover img, .mask figure.cs-hover img {
+
+.no-touch .mask figure:hover img,
+.mask figure.cs-hover img {
 	-webkit-transform: translateY(-30px);
 	-moz-transform: translateY(-30px);
 	-ms-transform: translateY(-30px);
 	transform: translateY(-30px);
 }
+
 .mask figcaption {
 	height: 50px;
 	width: 100%;
@@ -485,7 +611,9 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	-moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
 	transition: transform 0.4s, opacity 0.1s 0.3s;
 }
-.no-touch .mask figure:hover figcaption, .mask figure.cs-hover figcaption {
+
+.no-touch .mask figure:hover figcaption,
+.mask figure.cs-hover figcaption {
 	opacity: 1;
 	-webkit-transform: translateY(0px);
 	-moz-transform: translateY(0px);
@@ -495,6 +623,7 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	-moz-transition: -moz-transform 0.4s, opacity 0.1s;
 	transition: transform 0.4s, opacity 0.1s;
 }
+
 .mask figcaption a {
 	position: absolute;
 	top: 10px;
@@ -502,30 +631,33 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	right: 30px;
 }
 
+
 /* ==========================================================================
    MEDIA QUERIES
    ========================================================================== */
 
+@media screen and (max-width:1050px),
+screen and (max-device-width:1050px) {
+	body .header {
+		background-attachment: scroll;
+	}
+}
 
-@media screen and (max-width:1050px), screen and (max-device-width:1050px) {
-body .header {
-	background-attachment: scroll;
-}
-}
 
 /*ipad portrait*/
-@media only screen and (min-device-width:768px) and (max-device-width : 1024px) and (orientation : portrait) {
-.header {
-	background-attachment: scroll;
-}
+
+@media only screen and (min-device-width:768px) and (max-device-width: 1024px) and (orientation: portrait) {
+	.header {
+		background-attachment: scroll;
+	}
 }
 
 @media screen and (max-width:769px) {
-#headerwrap h1 {
-	font-size: 80px;
-}
-#headerwrap p {
-	font-size: 30px;
-	line-height: 38px;
-}
+	#headerwrap h1 {
+		font-size: 80px;
+	}
+	#headerwrap p {
+		font-size: 30px;
+		line-height: 38px;
+	}
 }
