@@ -408,9 +408,8 @@ a:after {
 	padding: 30px 0;
 }
 
-#contact .fa {
-	color: #0099dd;
-	margin-bottom: 10px;
+#contact img{
+	width:48px;
 }
 
 #contact .btn {
